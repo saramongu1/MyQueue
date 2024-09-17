@@ -17,8 +17,10 @@ Para usuarios de Windows:
 4.	Teniendo el compilador ya instalado se puede verificar que está instalado usando el siguiente comando en el terminal de powerShell
 gcc –version
 Y de esa forma se sabe que está instalado y su respectiva versión.
+
 -Para usuarios de mac
 Instalar Xcode Command Line Tools usando xcode-select --install.
+
 -Para usuarios Linux
 Ejecuta sudo apt install gcc en el terminal
 
