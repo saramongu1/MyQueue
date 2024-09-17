@@ -18,10 +18,10 @@ Para usuarios de Windows:
 gcc –version
 Y de esa forma se sabe que está instalado y su respectiva versión.
 
--Para usuarios de mac
+-Para usuarios de mac:
 Instalar Xcode Command Line Tools usando xcode-select --install.
 
--Para usuarios Linux
+-Para usuarios Linux:
 Ejecuta sudo apt install gcc en el terminal
 
 # Ejecutar el programa
