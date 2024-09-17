@@ -31,5 +31,6 @@ Lo que se hace en ese comando es crear un ejecutable con el nombre del archivo, 
 ./nombre_del_ejecutable
 Y de esa forma puede ejecutar el programa
 Otra forma, para poder ejecutarlo es usando un entorno de desarrollo, en nuestro caso se usó VisualStudioCode, entonces en ese caso se tiene que instalar 2 extensiones, las cuales son C/C++ y C/C++ Compile Run. Y después se abre el proyecto y se le da al botón de ejecutar
+
 Contenido de ayuda para instalar winGW y ejecutar el programa: https://www.youtube.com/watch?v=GEZLjRSY_m8
 
